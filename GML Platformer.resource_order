@@ -1,4 +1,14 @@
 {
   "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"owall","order":1,"path":"objects/owall/owall.yy",},
+    {"name":"sClouds","order":1,"path":"sprites/sClouds/sClouds.yy",},
+    {"name":"sGrain","order":2,"path":"sprites/sGrain/sGrain.yy",},
+    {"name":"sInvisibleWall","order":3,"path":"sprites/sInvisibleWall/sInvisibleWall.yy",},
+    {"name":"sPlayer_strip16","order":5,"path":"sprites/sPlayer_strip16/sPlayer_strip16.yy",},
+    {"name":"sPlayer","order":4,"path":"sprites/sPlayer/sPlayer.yy",},
+    {"name":"sPlayerA_strip2","order":6,"path":"sprites/sPlayerA_strip2/sPlayerA_strip2.yy",},
+    {"name":"sPlayerR_strip16","order":7,"path":"sprites/sPlayerR_strip16/sPlayerR_strip16.yy",},
+    {"name":"sWalls","order":8,"path":"sprites/sWalls/sWalls.yy",},
+  ],
 }
