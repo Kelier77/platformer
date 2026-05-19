@@ -17,6 +17,8 @@ if  (place_meeting(x,y+1,owall)) && (key_jump)
      vsp = -jumpsp 
 } 
 //horizontal collision 
+// From Winikka: https://youtu.be/ywgkXbHYJNE?si=1A-iFZ-hZtLnpRnp&t=221
+// Let's try the updated code from Sara Spaulding
 if (place_meeting(x+hsp,y,owall))
 {
    while (!place_meeting(x+sign(hsp),y,owall))
